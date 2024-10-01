@@ -1,7 +1,11 @@
 ![React Native](https://img.shields.io/badge/React%20Native-blue.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)
 <br/>
-**Note**: This is a blank repository intended to showcase the README and screenshots for the app ***Meditations by Marcus Aurelius***. The actual source code is maintained in a private repository to safeguard the application's security and because it is not released as open-source.
+**Note**: This is a blank repository intended to showcase the README and screenshots for the app ***Meditations by Marcus Aurelius***.
+</br>
+The actual source code is maintained in a private repository to safeguard the application's security and because it is not released
+</br>
+as open-source.
 <br/>
 <br/>
 
