@@ -2,9 +2,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)
 <br/>
 **Note**: This is a blank repository intended to showcase the README and screenshots for the app ***Meditations by Marcus Aurelius***.
-</br>
 The actual source code is maintained in a private repository to safeguard the application's security and because it is not released
-</br>
 as open-source.
 <br/>
 <br/>
@@ -38,8 +36,6 @@ The Meditations app provides users with the teachings of Marcus Aurelius, Roman 
 
 ## 📊 App Sales
 
-The *Meditations by Marcus Aurelius* app has maintained a fairly steady sales performance, averaging about 5-10 units per month.
-</br>
-This consistent sales activity demonstrates the app’s ongoing appeal to users seeking Stoic wisdom in a modern, accessible format.
+The *Meditations by Marcus Aurelius* app has maintained a fairly steady sales performance, averaging about 5-10 units per month. This consistent sales activity demonstrates the app’s ongoing appeal to users seeking Stoic wisdom in a modern, accessible format.
 
 ![RevenueCat Screenshot](./sales_overview.png)
