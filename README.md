@@ -24,6 +24,10 @@ The Meditations app provides users with the teachings of Marcus Aurelius, Roman 
 
 ---
 
+![App Store Banner](./appstore_banner.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 - **React Native**: JavaScript framework for building native mobile apps using JavaScript and React components.
