@@ -13,7 +13,7 @@ The Meditations app provides users with the teachings of Marcus Aurelius, Roman 
 
 [Available in the App Store](https://apple.co/3Mygopg)  
 
-![AppStore Screenshots](./appstore_screenshots.png)
+![App Store Banner](./appstore_banner.png)
 
 ## 🌟 Features
 
@@ -24,7 +24,7 @@ The Meditations app provides users with the teachings of Marcus Aurelius, Roman 
 
 ---
 
-![App Store Banner](./appstore_banner.png)
+![AppStore Screenshots](./appstore_screenshots.png)
 
 ---
 
