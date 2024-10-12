@@ -20,7 +20,7 @@ The Meditations app provides users with the teachings of Marcus Aurelius, Roman 
 - **Elegant Carousel Interface**: Each section in the 12 books of Meditations is presented in a simple, swipeable carousel for easy reading.
 - **Customizable Reading Experience**: Choose from six font styles and adjust the font size to suit your preferences.
 - **Favorite Sections**: Mark your favorite passages with a heart and easily access them from the favorites page.
-- **User-Friendly Navigation**: Seamlessly swipe between sections, or jump to any chapter using the intuitive contents list. Favorites are highlighted with golden touches to ensure they stand out.
+- **User-Friendly Navigation**: Seamlessly swipe between sections, or jump to any chapter using the intuitive contents list. Favorites are highlighted with a golden color to make them stand out.
 
 ---
 
