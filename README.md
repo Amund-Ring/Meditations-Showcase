@@ -42,4 +42,4 @@ The Meditations app provides users with the teachings of Marcus Aurelius, Roman 
 
 The *Meditations by Marcus Aurelius* app has maintained a fairly steady sales performance, averaging about 5-10 units per month. This consistent sales activity demonstrates the app’s ongoing appeal to users seeking Stoic wisdom in a modern, accessible format.
 
-![RevenueCat Screenshot](./sales_overview.png)
+![Sales Overview Screenshot](./sales_overview.png)
